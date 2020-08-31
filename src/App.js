@@ -13,6 +13,10 @@ function App() {
     <Navbar/>
     <Switch>
       <Route path='/' />
+      <Route path='/Home' />
+      <Route path='/Prdocts' />
+      <Route path='/ Support' />
+      <Route path='/' />
     </Switch>
     </Router>
    

@@ -63,6 +63,9 @@
     align-items: center;
 
 }
+ .nav-text a:hover{
+    background-color: blue;
+}
 
 span{
     margin-left: 16px;

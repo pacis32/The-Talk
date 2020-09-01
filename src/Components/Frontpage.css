@@ -1,0 +1,25 @@
+.container-grid{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+
+
+
+}
+
+.main-pc{
+    display: grid;
+}
+.grid-pic{
+    display: grid;
+    height: 400px;
+    grid-template-columns: auto auto auto;
+    grid-gap: 10px;
+    padding: 10px;
+}
+.column1{
+    border: orangered;
+    display: flex;
+
+}
+

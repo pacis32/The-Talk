@@ -1,0 +1,20 @@
+.Top-navbar{
+flex-direction: row;
+
+}
+
+.navbar-list{
+    display: flex;
+    text-decoration: none;
+   
+
+}
+
+.nav-link {
+    display: flex;
+    margin-left:60px;
+    margin-top: 0em;
+    list-style: none;
+    
+    
+}
